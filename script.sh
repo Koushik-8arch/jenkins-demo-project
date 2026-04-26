@@ -5,3 +5,4 @@ date
 uname -a
 
 echo "Webhook trigger successful"
+trigger email test
