@@ -1,5 +1,7 @@
 #!/bin/bash
+
 echo "Hello from Jenkins CI/CD pipeline"
 date
 uname -a
-test webhook trigger
+
+echo "Webhook trigger successful"
